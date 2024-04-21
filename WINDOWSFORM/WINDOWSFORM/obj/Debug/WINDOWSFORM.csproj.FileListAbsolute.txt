@@ -1,0 +1,4 @@
+C:\Users\Clyde\Downloads\WINDOWSFORM\WINDOWSFORM\obj\Debug\WINDOWSFORM.csproj.AssemblyReference.cache
+C:\Users\Clyde\Downloads\WINDOWSFORM\WINDOWSFORM\obj\Debug\WINDOWSFORM.Properties.Resources.resources
+C:\Users\Clyde\Downloads\WINDOWSFORM\WINDOWSFORM\obj\Debug\WINDOWSFORM.csproj.GenerateResource.cache
+C:\Users\Clyde\Downloads\WINDOWSFORM\WINDOWSFORM\obj\Debug\WINDOWSFORM.csproj.CoreCompileInputs.cache
